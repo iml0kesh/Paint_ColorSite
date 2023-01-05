@@ -1,0 +1,26 @@
+body{
+    margin: 0px;
+    background-color: #242424;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    /* background-color: yellow; */
+}
+
+.colorBox {
+    margin-top: 100px;
+    height: 260px;
+    width: 280px;
+    background-color: #242424;
+    border-style: solid;
+    border-color: white;
+    border-radius: 50px;
+}
+
+
+.buttons{
+    margin-top: 50px;
+}
+
